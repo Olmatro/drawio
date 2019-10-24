@@ -498,10 +498,6 @@ Menus.prototype.init = function()
 	{
 		this.addMenuItems(menu, ['help', '-', 'about']);
 	})));
-	this.put('oLpY', new Menu(mxUtils.bind(this, function(menu, parent)
-	{
-		this.addMenuItems(menu, ['oLpY', '-', 'about-oLpY']);
-	})));
 };
 
 /**
