@@ -2,6 +2,17 @@
 
 About
 -----
+
+About gh-pages-backup-191027-23h50
+----------------------------------
+
+app.min.js has been edited by Olmatro :
+- last edit on 27/10/2019 following our roadmap ;
+- Olmatro's DVLP-version ;
+- Issue reported :
+ Graph doesn't refresh after Label manual entry !
+ You have to SAVE then reLOAD current diagram to get it right !
+
 [draw.io](https://www.draw.io) is an online diagramming web site that delivers the source in this project.
 
 draw.io uses the [mxGraph library](https://github.com/jgraph/mxgraph) as the base of the stack, with the [GraphEditor example](https://github.com/jgraph/mxgraph/tree/master/javascript/examples/grapheditor) from mxGraph as the base of the application part. The mxGraph library build used is stored under /etc/mxgraph/mxClient.js.
